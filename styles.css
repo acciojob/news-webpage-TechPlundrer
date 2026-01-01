@@ -42,3 +42,11 @@ body {
 	border-radius: 8px;
 	margin-bottom: 10px;
 }
+
+        .latest-news-section h2 {
+            margin-top: 5;
+        }
+
+        .latest-news-section ul {
+            padding-left: 20px;
+        }
