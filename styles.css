@@ -20,12 +20,12 @@ body {
 	background-color: white;
 	border-radius: 10px;
 	text-align: center;
-	width: 200px;
-	padding; 15px;
+	width: 220px;
+	padding; 0px;
 }
 .main-article {
 	background-color: white;
-	padding: 20px;
+	padding: 0px;
 	border-radius: 10px;
 	width: 400px;
 	text-align: center;
@@ -34,7 +34,7 @@ body {
 	background-color: white;
 	width: 220px;
 	text-align: center;
-	padding: 15px;
+	padding: 0px;
 	border-radius: 10px;
 }
 .pictorial-news-section img {
@@ -45,6 +45,7 @@ body {
 
         .latest-news-section h2 {
             margin-top: 5;
+			white-space: nowrap;
         }
 
         .latest-news-section ul {
